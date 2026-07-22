@@ -7,7 +7,7 @@ HomeScape Analytics is an end-to-end data analytics project built using Google B
 
 ## 🛠️ Tech Stack
 - Google BigQuery
-- MSSQL
+- SQL (SSMS)
 - Power BI
 - Power Query Editor
 
@@ -40,6 +40,19 @@ HomeScape Analytics is an end-to-end data analytics project built using Google B
 
 ---
 
+## 📸 Dashboard Preview
+
+### 📊 Dashboard 1
+![Dashboard 1](Dashboard-images/dashboard1.png)
+
+### 📊 Dashboard 2
+![Dashboard 2](Dashboard-images/dashboard2.png)
+
+### 📊 Dashboard 3
+![Dashboard 3](Dashboard-images/dashboard3.png)
+
+---
+
 ## 💡 Insights
 - Identified regions with highest sales contribution  
 - Analyzed price differences between offer and purchase  
@@ -49,4 +62,4 @@ HomeScape Analytics is an end-to-end data analytics project built using Google B
 ---
 
 ## 📬 Contact
-Feel free to connect with me for feedback, collaboration, or opportunities!  
+Feel free to fork and extend this project with new features and insights.  
