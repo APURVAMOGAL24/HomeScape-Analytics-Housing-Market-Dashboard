@@ -1,5 +1,0 @@
-relationship 5b53250b-386f-4eb3-aef8-012e902b5bae
-	joinOnDateBehavior: datePartOnly
-	fromColumn: 'Housing Data'.date
-	toColumn: LocalDateTable_f650ae6e-46dd-4672-a4f8-673d4f9954c1.Date
-
